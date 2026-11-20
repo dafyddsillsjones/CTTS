@@ -50,3 +50,7 @@ Original schedule: https://docs.google.com/spreadsheets/d/1K1t2OAAQhwbPTbLozx_XF
 ## Original conference branding
 
 The site uses `assets/conference-hero.png`, supplied by the symposium organiser, as the full-width original hero artwork. The accompanying palette uses midnight navy, violet, muted pink and warm gold. Replace that image only with an authorised conference asset.
+
+## Revised design (November 2026)
+
+The archive now uses a more balanced, accessible typography scale throughout and removes the standalone “About the Archive” section. Attribution and permissions are retained in the footer.
