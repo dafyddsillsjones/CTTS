@@ -54,3 +54,7 @@ The site uses `assets/conference-hero.png`, supplied by the symposium organiser,
 ## Revised design (November 2026)
 
 The archive now uses a more balanced, accessible typography scale throughout and removes the standalone “About the Archive” section. Attribution and permissions are retained in the footer.
+
+## Revision — streamlined layout
+
+Removed the redundant Historical Record section. The original programme is accessible from the top navigation and the archive banner. The symposium overview and presentation library are unchanged.
