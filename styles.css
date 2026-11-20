@@ -44,3 +44,15 @@ footer p,footer .footer-right,footer small {font-size:14px;line-height:1.5;}
 .viewer-top p,.viewer-bottom {font-size:16px;}
 @media(max-width:900px) {.section {padding-top:58px;padding-bottom:58px;}.archive-banner {padding-top:32px;padding-bottom:35px;}}
 @media(max-width:520px) {.archive-banner h1 {font-size:36px;}.section h2 {font-size:38px;}.section-tag {margin-bottom:20px;}.meta-row {grid-template-columns:repeat(2,1fr);}.programme-date {font-size:70px;}}
+
+/* Minimal presentation catalogue: text-first, no thumbnail or preview window */
+.presentation-grid{grid-template-columns:1fr;gap:12px;max-width:1100px}
+.presentation-card{border:1px solid #d8ded8}
+.card-body{padding:24px 28px}
+.card-body h3{margin:9px 0 12px}
+.card-actions{justify-content:flex-start;margin-top:0;padding-top:16px;gap:28px}
+.card-type{letter-spacing:.12em}
+@media(max-width:520px){.card-body{padding:20px}.card-actions{flex-wrap:wrap;gap:16px}}
+
+/* Force the presentation catalogue to be text-only. */
+.presentation-card .card-image,.presentation-card .preview,.presentation-card .thumbnail,.presentation-card iframe,.presentation-card img{display:none!important}
